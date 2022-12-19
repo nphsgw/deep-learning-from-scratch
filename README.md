@@ -43,6 +43,23 @@ $ cd ../ch05
 $ python train_nueralnet.py
 ```
 
+## クラウドサービスでの実行
+
+本書のコードは次の表にあるボタンをクリックすることで、AWSの無料の計算環境である[Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws/)上に実行できます(事前に[メールアドレスによる登録](https://studiolab.sagemaker.aws/requestAccount)が必要です)。SageMaker Studio Labの使い方は[こちら](https://github.com/aws-sagemaker-jp/awesome-studio-lab-jp/blob/main/README_usage.md)をご覧ください。[Amazon SageMaker Studio Lab Community](https://github.com/aws-studiolab-jp/awesome-studio-lab-jp)で最新情報が取得できます。
+
+|フォルダ名 |Amazon SageMaker Studio Lab
+|:--        |:--                          |
+|ch01       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch01.ipynb)|
+|ch02       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch02.ipynb)|
+|ch03       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch03.ipynb)|
+|ch04       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch04.ipynb)|
+|ch05       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch05.ipynb)|
+|ch06       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch06.ipynb)|
+|ch07       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch07.ipynb)|
+|ch08       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/ch08.ipynb)|
+|common       |[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/oreilly-japan/deep-learning-from-scratch/blob/master/notebooks/common.ipynb)|
+
+
 ## ライセンス
 
 本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
